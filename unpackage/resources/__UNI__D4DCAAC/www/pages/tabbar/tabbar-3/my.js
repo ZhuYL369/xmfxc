@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"content.",[1],"data-v-47f5d374 { text-align: center; height: ",[0,400],"; margin-top: ",[0,200],"; }\n",],undefined,{path:"./pages/tabbar/tabbar-3/my.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tabbar/tabbar-3/my.wxml') } }));

@@ -1,0 +1,40 @@
+
+.page {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.dingwei{
+	left: 30rpx;
+}
+.map {
+    position: relative;
+}
+cover-image {
+	display: inline-block;
+}
+cover-view{
+	display: inline-block;
+}
+.img {
+	width: 60rpx;
+	height: 60rpx;
+	bottom: 13%;
+	margin-top: -50rpx;
+}
+.controls-start {
+        text-align: center;
+        color: #FFFFFF;
+		background-color: #912CEE;
+		width: 200rpx;
+		height: 80rpx;
+		top:5000px;
+		left:70%;
+		border-radius: 25rpx;
+}
+

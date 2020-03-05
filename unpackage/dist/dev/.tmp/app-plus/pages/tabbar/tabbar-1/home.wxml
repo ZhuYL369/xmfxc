@@ -1,0 +1,1 @@
+<view class="page"><map class="map" style="{{'width:'+(mapwidth+'px')+';'+('height:'+(mapheight+'px')+';')}}" id="mymap" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{covers}}" controls="{{controlsdata}}" show-location data-event-opts="{{[['controltap',[['dingwei',['$event']]]]]}}" bindcontroltap="__e"></map></view>
